@@ -1,0 +1,2 @@
+# naijabuildersmarket
+Naija Builder's Directory is an online marketplace and classified ads listing directory for building materials, builders and contractors.  We aim to provide a  central place for builders to get a list of building materials and also be able to hire same for their various building project. It was developed for Capital Shelters Ltd. A real estate, construction and general services organization located in Enugu, South East Nigeria
